@@ -9,17 +9,17 @@ class NewsfeedScreen extends StatelessWidget {
     return ListView(
       children: const [
         NewsfeedCard(
-          userName: 'BOK MIGIL',
+          userName: 'uncle dags',
           postContent:
-              'Remember me! #mamacoco',
+              'ONE TWO THREE FOUR TOUNGE IMO WALK OUT DA DOOR',
           date: '2 hours ago',
           numOfLikes: 1990,
         ),
 
         NewsfeedCard(
-          userName: 'MAMA COCO',
+          userName: 'Mommy Oni',
           postContent:
-              'I am mama coco. #mamacoco',
+              'TAYO AY NASA FINE DINING RESTAURANT',
           date: 'December 1, 2023',
           numOfLikes: 3290,
           hasImage: true,

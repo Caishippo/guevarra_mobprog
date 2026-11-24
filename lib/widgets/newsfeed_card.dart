@@ -93,7 +93,7 @@ class NewsfeedCard extends StatelessWidget {
             hasImage == true
                 ? const Image(
                     image: AssetImage(
-                      'assets/images/mamacoco.png',
+                      'assets/images/oni.jpg',
                     ),
                   )
                 : const SizedBox.shrink(),
